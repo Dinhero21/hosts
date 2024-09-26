@@ -1,0 +1,26 @@
+# #region Agressive blocking
+# (extreme privacy invasion, not likely to help the devs)
+
+# #region Letrus
+# (Essay)
+
+0.0.0.0 clickstream.letrus.com
+
+# endregion
+
+# #region Chromedash
+
+# GPS Tracking
+0.0.0.0 us-central1-o4edu-chromebook.cloudfunctions.net
+
+# #endregion
+
+# #region Chromevision
+
+0.0.0.0 o4edu-prod-api.firebaseapp.com
+0.0.0.0 chromedash-api-rjf43mjvea-uc.a.run.app
+# sadly can't block storage.googleapis.com/o4edu-prod-api-chromedash-files
+
+# #endregion
+
+# #endregion
